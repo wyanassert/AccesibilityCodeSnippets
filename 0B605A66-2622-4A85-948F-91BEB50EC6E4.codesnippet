@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>accesslabel</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>UILabel *lb = [UILabel new];
+lb.text = &lt;#text#&gt;;
+lb.textColor = &lt;#(UIColor * _Nullable)#&gt;;
+lb.font = [UIFont systemFontOfSize:&lt;#(CGFloat)#&gt;];
+lb.backgroundColor = [UIColor clearColor];
+lb.isAccessibilityElement = YES;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0B605A66-2622-4A85-948F-91BEB50EC6E4</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Access Label Create</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
